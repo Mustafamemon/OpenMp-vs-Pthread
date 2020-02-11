@@ -1,0 +1,48 @@
+__________Merge_Sort__________
+
+pthread
+Random 100 data set
+Time Elapsed: 0.812122ms
+
+Random 100 data set
+Time Elapsed: 0.770741ms
+
+Random 100 data set
+Time Elapsed: 0.666504ms
+
+Random 100000 data set
+Time Elapsed: 141.349ms
+
+Random 100000 data set
+Time Elapsed: 129.944ms
+
+Random 100000 data set
+Time Elapsed: 131.312ms
+
+Random 1000000 data set
+Time Elapsed: 1226.37ms
+
+Random 1000000 data set
+Time Elapsed: 1348.34ms
+
+Random 1000000 data set
+Time Elapsed: 1240.83ms
+
+Ascending order sorted data set
+Time Elapsed: 41.7243ms
+
+Ascending order sorted data set
+Time Elapsed: 34.1105ms
+
+Ascending order sorted data set
+Time Elapsed: 32.8289ms
+
+Descending order sorted data set
+Time Elapsed: 34.7642ms
+
+Descending order sorted data set
+Time Elapsed: 38.216ms
+
+Descending order sorted data set
+Time Elapsed: 33.2241ms
+

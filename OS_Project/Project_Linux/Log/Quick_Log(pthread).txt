@@ -1,0 +1,48 @@
+__________Quick_Sort__________
+
+pthread
+Random 100 data set
+Time Elapsed: 0.437444ms
+
+Random 100 data set
+Time Elapsed: 2.72964ms
+
+Random 100 data set
+Time Elapsed: 0.51698ms
+
+Random 100000 data set
+Time Elapsed: 50.8794ms
+
+Random 100000 data set
+Time Elapsed: 48.0849ms
+
+Random 100000 data set
+Time Elapsed: 50.4755ms
+
+Random 1000000 data set
+Time Elapsed: 1346.43ms
+
+Random 1000000 data set
+Time Elapsed: 1490.97ms
+
+Random 1000000 data set
+Time Elapsed: 1596.47ms
+
+Ascending order sorted data set
+Time Elapsed: 1344.72ms
+
+Ascending order sorted data set
+Time Elapsed: 1227.27ms
+
+Ascending order sorted data set
+Time Elapsed: 1119.96ms
+
+Descending order sorted data set
+Time Elapsed: 466.517ms
+
+Descending order sorted data set
+Time Elapsed: 460.847ms
+
+Descending order sorted data set
+Time Elapsed: 501.289ms
+

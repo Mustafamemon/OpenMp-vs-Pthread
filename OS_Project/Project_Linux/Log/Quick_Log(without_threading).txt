@@ -1,0 +1,48 @@
+__________Quick_Sort__________
+
+With-out Threading
+Random 100 data set
+Time Elapsed: 0.116734ms
+
+Random 100 data set
+Time Elapsed: 0.101114ms
+
+Random 100 data set
+Time Elapsed: 0.076296ms
+
+Random 100000 data set
+Time Elapsed: 85.6692ms
+
+Random 100000 data set
+Time Elapsed: 81.7045ms
+
+Random 100000 data set
+Time Elapsed: 84.8418ms
+
+Random 1000000 data set
+Time Elapsed: 2354.61ms
+
+Random 1000000 data set
+Time Elapsed: 2431.71ms
+
+Random 1000000 data set
+Time Elapsed: 2548.2ms
+
+Ascending order sorted data set
+Time Elapsed: 2206.01ms
+
+Ascending order sorted data set
+Time Elapsed: 2211.96ms
+
+Ascending order sorted data set
+Time Elapsed: 2279.38ms
+
+Descending order sorted data set
+Time Elapsed: 848.313ms
+
+Descending order sorted data set
+Time Elapsed: 839.287ms
+
+Descending order sorted data set
+Time Elapsed: 843.836ms
+

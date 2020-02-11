@@ -1,0 +1,48 @@
+__________Radix_Sort__________
+
+OpenMP
+Random 100 data set
+Time Elapsed: 0.26911ms
+
+Random 100 data set
+Time Elapsed: 0.204458ms
+
+Random 100 data set
+Time Elapsed: 0.185255ms
+
+Random 100000 data set
+Time Elapsed: 44.6951ms
+
+Random 100000 data set
+Time Elapsed: 47.0945ms
+
+Random 100000 data set
+Time Elapsed: 43.2297ms
+
+Random 1000000 data set
+Time Elapsed: 385.381ms
+
+Random 1000000 data set
+Time Elapsed: 359.294ms
+
+Random 1000000 data set
+Time Elapsed: 347.851ms
+
+Ascending order sorted data set
+Time Elapsed: 353.336ms
+
+Ascending order sorted data set
+Time Elapsed: 378.6ms
+
+Ascending order sorted data set
+Time Elapsed: 343.871ms
+
+Descending order sorted data set
+Time Elapsed: 373.346ms
+
+Descending order sorted data set
+Time Elapsed: 356.879ms
+
+Descending order sorted data set
+Time Elapsed: 350.602ms
+

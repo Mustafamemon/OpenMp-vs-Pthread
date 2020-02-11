@@ -1,0 +1,48 @@
+__________Quick_Sort__________
+
+OpenMP
+Random 100 data set
+Time Elapsed: 0.288369ms
+
+Random 100 data set
+Time Elapsed: 0.446307ms
+
+Random 100 data set
+Time Elapsed: 0.279443ms
+
+Random 100000 data set
+Time Elapsed: 50.8898ms
+
+Random 100000 data set
+Time Elapsed: 56.096ms
+
+Random 100000 data set
+Time Elapsed: 50.0773ms
+
+Random 1000000 data set
+Time Elapsed: 1387.43ms
+
+Random 1000000 data set
+Time Elapsed: 1372.37ms
+
+Random 1000000 data set
+Time Elapsed: 1521.45ms
+
+Ascending order sorted data set
+Time Elapsed: 1263.28ms
+
+Ascending order sorted data set
+Time Elapsed: 1211.84ms
+
+Ascending order sorted data set
+Time Elapsed: 1210.7ms
+
+Descending order sorted data set
+Time Elapsed: 461.441ms
+
+Descending order sorted data set
+Time Elapsed: 428.083ms
+
+Descending order sorted data set
+Time Elapsed: 453.281ms
+

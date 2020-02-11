@@ -1,0 +1,48 @@
+__________Radix_Sort__________
+
+pthread
+Random 100 data set
+Time Elapsed: 0.37985ms
+
+Random 100 data set
+Time Elapsed: 0.364787ms
+
+Random 100 data set
+Time Elapsed: 0.451147ms
+
+Random 100000 data set
+Time Elapsed: 49.7508ms
+
+Random 100000 data set
+Time Elapsed: 52.733ms
+
+Random 100000 data set
+Time Elapsed: 39.7573ms
+
+Random 1000000 data set
+Time Elapsed: 361.765ms
+
+Random 1000000 data set
+Time Elapsed: 347.414ms
+
+Random 1000000 data set
+Time Elapsed: 387.614ms
+
+Ascending order sorted data set
+Time Elapsed: 367.449ms
+
+Ascending order sorted data set
+Time Elapsed: 343.566ms
+
+Ascending order sorted data set
+Time Elapsed: 361.367ms
+
+Descending order sorted data set
+Time Elapsed: 395.779ms
+
+Descending order sorted data set
+Time Elapsed: 417.969ms
+
+Descending order sorted data set
+Time Elapsed: 434.742ms
+

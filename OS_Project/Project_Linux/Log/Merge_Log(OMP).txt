@@ -1,0 +1,48 @@
+__________Merge_Sort__________
+
+OpenMP
+Random 100 data set
+Time Elapsed: 36.9783ms
+
+Random 100 data set
+Time Elapsed: 0.485759ms
+
+Random 100 data set
+Time Elapsed: 0.319018ms
+
+Random 100000 data set
+Time Elapsed: 197.494ms
+
+Random 100000 data set
+Time Elapsed: 151.538ms
+
+Random 100000 data set
+Time Elapsed: 116.352ms
+
+Random 1000000 data set
+Time Elapsed: 1116.19ms
+
+Random 1000000 data set
+Time Elapsed: 1048.61ms
+
+Random 1000000 data set
+Time Elapsed: 1254.13ms
+
+Ascending order sorted data set
+Time Elapsed: 18.3372ms
+
+Ascending order sorted data set
+Time Elapsed: 23.5993ms
+
+Ascending order sorted data set
+Time Elapsed: 24.3431ms
+
+Descending order sorted data set
+Time Elapsed: 35.3681ms
+
+Descending order sorted data set
+Time Elapsed: 37.3695ms
+
+Descending order sorted data set
+Time Elapsed: 31.1233ms
+

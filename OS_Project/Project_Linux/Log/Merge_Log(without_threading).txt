@@ -1,0 +1,48 @@
+__________Merge_Sort__________
+
+With-out Threading
+Random 100 data set
+Time Elapsed: 0.114544ms
+
+Random 100 data set
+Time Elapsed: 0.202488ms
+
+Random 100 data set
+Time Elapsed: 0.114564ms
+
+Random 100000 data set
+Time Elapsed: 75.0534ms
+
+Random 100000 data set
+Time Elapsed: 77.8433ms
+
+Random 100000 data set
+Time Elapsed: 80.447ms
+
+Random 1000000 data set
+Time Elapsed: 681.22ms
+
+Random 1000000 data set
+Time Elapsed: 660.905ms
+
+Random 1000000 data set
+Time Elapsed: 665.513ms
+
+Ascending order sorted data set
+Time Elapsed: 16.8695ms
+
+Ascending order sorted data set
+Time Elapsed: 17.3066ms
+
+Ascending order sorted data set
+Time Elapsed: 18.5899ms
+
+Descending order sorted data set
+Time Elapsed: 16.8752ms
+
+Descending order sorted data set
+Time Elapsed: 17.0222ms
+
+Descending order sorted data set
+Time Elapsed: 17.1062ms
+

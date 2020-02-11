@@ -1,0 +1,48 @@
+__________Radix_Sort__________
+
+With-out Threading
+Random 100 data set
+Time Elapsed: 53.4705ms
+
+Random 100 data set
+Time Elapsed: 0.09135ms
+
+Random 100 data set
+Time Elapsed: 0.12594ms
+
+Random 100000 data set
+Time Elapsed: 69.9709ms
+
+Random 100000 data set
+Time Elapsed: 53.131ms
+
+Random 100000 data set
+Time Elapsed: 48.9956ms
+
+Random 1000000 data set
+Time Elapsed: 521.394ms
+
+Random 1000000 data set
+Time Elapsed: 516.792ms
+
+Random 1000000 data set
+Time Elapsed: 513.338ms
+
+Ascending order sorted data set
+Time Elapsed: 611.45ms
+
+Ascending order sorted data set
+Time Elapsed: 503.41ms
+
+Ascending order sorted data set
+Time Elapsed: 507.676ms
+
+Descending order sorted data set
+Time Elapsed: 559.341ms
+
+Descending order sorted data set
+Time Elapsed: 505.449ms
+
+Descending order sorted data set
+Time Elapsed: 516.456ms
+
